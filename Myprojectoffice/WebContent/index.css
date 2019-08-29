@@ -8,6 +8,7 @@
 form{
 	padding:90px;
 	text-align:center;
+	background-color:steelblue;
 }
 form h1{
  margin-left: 48px;
@@ -34,5 +35,6 @@ label{
     margin-bottom: 5px;
     font-weight: 700;
     text-align: left;
+    color:floralwhite;
 }
 }
